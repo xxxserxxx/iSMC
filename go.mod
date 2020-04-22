@@ -1,4 +1,4 @@
-module github.com/dkorunic/iSMC
+module github.com/xxxserxxx/iSMC
 
 go 1.13
 

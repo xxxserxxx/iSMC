@@ -1,8 +1,8 @@
 iSMC-lib
 ========
 
-[![GitHub license](https://img.shields.io/github/license/dkorunic/iSMC.svg)](https://github.com/xxxserxxx/iSMC/blob/master/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dkorunic/iSMC)](https://goreportcard.com/report/github.com/xxxserxxx/iSMC)
+[MIT license](https://github.com/xxxserxxx/iSMC/blob/master/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xxxserxxx/iSMC)](https://goreportcard.com/report/github.com/xxxserxxx/iSMC)
 
 ## About
 
